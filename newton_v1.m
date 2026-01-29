@@ -1,3 +1,6 @@
+% Hati-hati, diasumsikan anda sudah menginstall latex
+% LaTeX digunakan disini untuk membuat label sumbu-x dan sumbu-y lebih bagus
+
 clear all;
 close all;
 clc;
@@ -44,3 +47,4 @@ legend({'$f(x)$','$x_i$'},...
     'interpreter','latex',...
     'fontsize',16,...
     'location','best')
+
